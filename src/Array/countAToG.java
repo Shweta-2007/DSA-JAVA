@@ -22,3 +22,5 @@ public class countAToG {
       System.out.print("RESULT: "+ result);
   }
 }
+
+// TIME COMPLEXITY -> O(N^2)
